@@ -17,7 +17,7 @@
     <!-- MASTHEAD -->
     <mj-section background-color="#F7F4F0" padding="0">
       <mj-column>
-        <mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/masthead.png" alt="The AI Comms Desk" width="600px" padding="0" />
+        <mj-image src="https://raw.githubusercontent.com/reymuniziii-svg/ai-comms-desk-assets/main/brand/masthead.png" alt="The AI Comms Desk" width="600px" padding="0" />
       </mj-column>
     </mj-section>
 
@@ -65,7 +65,7 @@
     </mj-section>
 
     <mj-section padding="16px 20px" background-color="#F7F4F0">
-      <mj-column><mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
+      <mj-column><mj-image src="https://raw.githubusercontent.com/reymuniziii-svg/ai-comms-desk-assets/main/brand/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
     </mj-section>
 
     <!-- STORY 2 -->
@@ -87,7 +87,7 @@
     </mj-section>
 
     <mj-section padding="16px 20px" background-color="#F7F4F0">
-      <mj-column><mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
+      <mj-column><mj-image src="https://raw.githubusercontent.com/reymuniziii-svg/ai-comms-desk-assets/main/brand/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
     </mj-section>
 
     <!-- STORY 3 -->
@@ -103,13 +103,13 @@
     </mj-section>
 
     <mj-section padding="16px 20px" background-color="#F7F4F0">
-      <mj-column><mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
+      <mj-column><mj-image src="https://raw.githubusercontent.com/reymuniziii-svg/ai-comms-desk-assets/main/brand/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
     </mj-section>
 
     <!-- QUICK TAKES -->
     <mj-section background-color="#ffffff" border="1px solid #E0D5C8" border-radius="15px" padding="0">
       <mj-column padding="24px 28px 4px 28px">
-        <mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-icon-quick-takes.png" alt="Quick Takes" width="32px" align="left" padding="0 0 8px 0" />
+        <mj-image src="https://raw.githubusercontent.com/reymuniziii-svg/ai-comms-desk-assets/main/brand/section-icon-quick-takes.png" alt="Quick Takes" width="32px" align="left" padding="0 0 8px 0" />
         <mj-text font-size="18px" color="#1A2B4A" font-weight="bold" font-family="Georgia, 'Times New Roman', serif" padding-top="0">Quick Takes</mj-text>
       </mj-column>
       <mj-column padding="4px 28px 20px 28px">
@@ -123,13 +123,13 @@
     </mj-section>
 
     <mj-section padding="16px 20px" background-color="#F7F4F0">
-      <mj-column><mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
+      <mj-column><mj-image src="https://raw.githubusercontent.com/reymuniziii-svg/ai-comms-desk-assets/main/brand/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
     </mj-section>
 
     <!-- ONE INTERESTING THING -->
     <mj-section background-color="#1A2B4A" border-radius="15px" padding="0">
       <mj-column padding="24px 28px 24px 28px">
-        <mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-icon-one-interesting-thing.png" alt="One Interesting Thing" width="32px" align="left" padding="0 0 8px 0" />
+        <mj-image src="https://raw.githubusercontent.com/reymuniziii-svg/ai-comms-desk-assets/main/brand/section-icon-one-interesting-thing.png" alt="One Interesting Thing" width="32px" align="left" padding="0 0 8px 0" />
         <mj-text font-size="18px" color="#ffffff" font-weight="bold" font-family="Georgia, 'Times New Roman', serif" padding-top="0">One Interesting Thing</mj-text>
         <mj-text color="#E0D5C8" padding-top="4px">A researcher at MIT's Media Lab published a study last week showing that AI-generated press releases were rated as <em>more credible</em> by journalists when they contained one small, specific factual error — because it "felt human." She's calling it the "credibility defect."</mj-text>
         <mj-text color="#E0D5C8" padding-top="0">The implication is uncomfortable: ultra-polished, error-free AI output may be triggering skepticism while slightly imperfect copy passes. The researchers aren't recommending you introduce errors. They're pointing at something more fundamental — that authenticity is now being processed as a signal, and AI output is failing that test by being <em>too good</em>.</mj-text>
@@ -138,7 +138,7 @@
     </mj-section>
 
     <mj-section padding="16px 20px" background-color="#F7F4F0">
-      <mj-column><mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
+      <mj-column><mj-image src="https://raw.githubusercontent.com/reymuniziii-svg/ai-comms-desk-assets/main/brand/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
     </mj-section>
 
     <!-- REFERRAL CTA -->
@@ -154,7 +154,7 @@
     <!-- FOOTER -->
     <mj-section background-color="#F7F4F0" padding="20px 0 0 0">
       <mj-column>
-        <mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/footer.png" alt="The AI Comms Desk" width="600px" padding="0" />
+        <mj-image src="https://raw.githubusercontent.com/reymuniziii-svg/ai-comms-desk-assets/main/brand/footer.png" alt="The AI Comms Desk" width="600px" padding="0" />
       </mj-column>
     </mj-section>
 
