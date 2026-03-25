@@ -1,0 +1,162 @@
+<mjml>
+  <mj-head>
+    <mj-title>The AI Comms Desk — Weekly Edition</mj-title>
+    <mj-preview>ChatGPT writes your pitch deck, but does it know your client? Plus: Google's new PR crisis playbook, Substack's B2B pivot, and one thing worth your time.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-text font-size="15px" color="#333333" line-height="1.7" />
+      <mj-section background-color="#F7F4F0" />
+    </mj-attributes>
+    <mj-style>
+      a { color: #C9560A; text-decoration: none; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#F7F4F0">
+
+    <!-- MASTHEAD -->
+    <mj-section background-color="#F7F4F0" padding="0">
+      <mj-column>
+        <mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/masthead.png" alt="The AI Comms Desk" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- DATE LINE -->
+    <mj-section background-color="#F7F4F0" padding="12px 24px 8px 24px">
+      <mj-column>
+        <mj-text font-size="11px" color="#888888" letter-spacing="1px" align="center">
+          TUESDAY, MARCH 25, 2026 &nbsp;&bull;&nbsp; ISSUE #47
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- SPONSOR -->
+    <mj-section background-color="#ffffff" border="1px solid #E0D5C8" border-radius="15px" padding="14px 24px">
+      <mj-column>
+        <mj-text font-size="11px" color="#888888" align="center" letter-spacing="1px">TOGETHER WITH</mj-text>
+        <mj-text font-size="15px" color="#1A2B4A" align="center" font-weight="bold">[Brand Name]</mj-text>
+        <mj-text font-size="13px" color="#555555" align="center">[One-sentence sponsor value prop goes here. Keep it punchy and relevant to comms pros.]</mj-text>
+        <mj-button background-color="#C9560A" color="white" border-radius="6px" font-size="13px" padding="10px 24px" href="#">Learn More →</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="8px" background-color="#F7F4F0"><mj-column><mj-text>&nbsp;</mj-text></mj-column></mj-section>
+
+    <!-- LEAD STORY -->
+    <mj-section background-color="#ffffff" border="1px solid #E0D5C8" border-radius="15px" padding="0">
+      <mj-column padding="28px 28px 0 28px">
+        <mj-text font-size="11px" color="#C9560A" letter-spacing="2px" font-weight="bold">LEAD STORY</mj-text>
+        <mj-text font-size="26px" color="#1A2B4A" line-height="1.3" font-weight="bold" font-family="Georgia, 'Times New Roman', serif" padding-top="8px">
+          Your AI Ghostwriter Is Getting a Reality Check — And That's Good for You
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0 28px 0 28px">
+        <mj-image src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=560&q=80" alt="AI tools for comms" width="560px" border-radius="10px" padding="12px 0" />
+      </mj-column>
+      <mj-column padding="0 28px 24px 28px">
+        <mj-text>The promise was simple: AI handles the draft, you handle the strategy. And for a while, that felt like progress. PR teams across the industry quietly started feeding ChatGPT their media lists, their angle notes, their client talking points — and getting back something passable in ninety seconds flat.</mj-text>
+        <mj-text padding-top="0">But the backlash is coming. Not from skeptics — from <em>practitioners who used AI the most</em>.</mj-text>
+        <mj-text padding-top="0">Three separate agency heads I spoke with last week said the same thing in different words: the output sounds like everyone else now. One described pitching a sustainability story to a tech reporter and receiving a reply that said, verbatim, "this reads like it was AI-generated." It was. They didn't deny it. They lost the placement.</mj-text>
+        <mj-text padding-top="0">The problem isn't the tool — it's the workflow. Agencies that treat AI as a <em>first draft machine</em> are compressing the wrong bottleneck. The hard part was never the typing. It was always the judgment: knowing which angle will land, which reporter is obsessing over what right now, which exec quote is too safe to publish. AI can't replicate that. But it can imitate the surface of it well enough to fool you into skipping it.</mj-text>
+        <mj-text padding-top="0">The shops doing this right have restructured around AI as an <em>expansion tool</em>, not a replacement. You write the core pitch in your own words. Feed it to AI to generate six variations at different word counts. A/B test two of them. Keep a human in the loop on subject lines and first paragraphs — the parts that actually get read — and let automation handle the twenty follow-up variants nobody was writing anyway.</mj-text>
+        <mj-text padding-top="0">The AI moment for comms isn't over. It's just getting honest.</mj-text>
+        <mj-text font-size="13px" color="#888888" padding-top="0"><em>— Analysis by The AI Comms Desk</em></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 20px" background-color="#F7F4F0">
+      <mj-column><mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
+    </mj-section>
+
+    <!-- STORY 2 -->
+    <mj-section background-color="#ffffff" border="1px solid #E0D5C8" border-radius="15px" padding="0">
+      <mj-column padding="24px 28px 0 28px">
+        <mj-text font-size="11px" color="#C9560A" letter-spacing="2px" font-weight="bold">PLATFORM WATCH</mj-text>
+        <mj-text font-size="21px" color="#1A2B4A" line-height="1.3" font-weight="bold" font-family="Georgia, 'Times New Roman', serif" padding-top="6px">
+          Google Launches "Crisis IQ" — An AI Layer for Its Crisis Communication Playbook
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0 28px 0 28px">
+        <mj-image src="https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=560&q=80" alt="Google AI comms" width="560px" border-radius="10px" padding="8px 0" />
+      </mj-column>
+      <mj-column padding="0 28px 24px 28px">
+        <mj-text>Google quietly updated its internal communications framework last week, adding an AI-assisted layer it's calling "Crisis IQ" — a toolkit that ingests real-time media coverage, social signals, and historical brand response data to generate draft holding statements within minutes of an incident.</mj-text>
+        <mj-text padding-top="0">The system isn't replacing communications leads. It's pre-loading them with context. When a product issue surfaces, Crisis IQ surfaces comparable past incidents, what the company said, how the media framed it, and whether the response helped or hurt.</mj-text>
+        <mj-text padding-top="0">For communicators watching Google, the lesson isn't "build the same thing." It's: <strong>the speed advantage of AI is only valuable if your institutional memory is structured enough to feed it.</strong> Most agencies don't have that. Yet.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 20px" background-color="#F7F4F0">
+      <mj-column><mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
+    </mj-section>
+
+    <!-- STORY 3 -->
+    <mj-section background-color="#ffffff" border="1px solid #E0D5C8" border-radius="15px" padding="0">
+      <mj-column padding="24px 28px 24px 28px">
+        <mj-text font-size="11px" color="#C9560A" letter-spacing="2px" font-weight="bold">INDUSTRY SHIFT</mj-text>
+        <mj-text font-size="21px" color="#1A2B4A" line-height="1.3" font-weight="bold" font-family="Georgia, 'Times New Roman', serif" padding-top="6px">
+          Substack's B2B Pivot Is a Distribution Play — and a Warning
+        </mj-text>
+        <mj-text padding-top="8px">Substack's quiet rollout of team accounts and brand publishing tools last month didn't get much coverage in media circles. It should have. The platform is actively courting communications teams as publishers — not just individual journalists — and offering analytics and subscriber monetization tools that put it squarely in competition with every branded newsletter play your agency may have proposed.</mj-text>
+        <mj-text padding-top="0">The warning: if your clients aren't already owning their audience through direct channels, the window to establish newsletter authority before it gets crowded is closing. AI-generated filler will accelerate audience attrition. Voice and specificity win.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 20px" background-color="#F7F4F0">
+      <mj-column><mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
+    </mj-section>
+
+    <!-- QUICK TAKES -->
+    <mj-section background-color="#ffffff" border="1px solid #E0D5C8" border-radius="15px" padding="0">
+      <mj-column padding="24px 28px 4px 28px">
+        <mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-icon-quick-takes.png" alt="Quick Takes" width="32px" align="left" padding="0 0 8px 0" />
+        <mj-text font-size="18px" color="#1A2B4A" font-weight="bold" font-family="Georgia, 'Times New Roman', serif" padding-top="0">Quick Takes</mj-text>
+      </mj-column>
+      <mj-column padding="4px 28px 20px 28px">
+        <mj-text padding-top="0">⚡ <strong>LinkedIn's AI content labels are rolling out globally</strong> — platform will flag posts with significant AI-generated content by default starting April. Brands should audit their content mix now.</mj-text>
+        <mj-text padding-top="0">📊 <strong>Edelman's 2026 Trust Barometer: AI companies now score below traditional media</strong> in public trust across 12 markets surveyed. Implications for clients in AI-adjacent sectors are significant.</mj-text>
+        <mj-text padding-top="0">🎙️ <strong>Podcast pitching overtook email pitching</strong> in volume for the first time in Q1 2026, per PodcastGuest.com data. Comms teams that don't have a podcast strategy are now behind.</mj-text>
+        <mj-text padding-top="0">🔍 <strong>Perplexity AI is now powering media search</strong> at three major news organizations — meaning AI-generated summaries may surface your clients' coverage (or bury it) before a journalist ever clicks the link.</mj-text>
+        <mj-text padding-top="0">📰 <strong>AP Stylebook adds first formal AI attribution guidelines</strong> — requires disclosure when AI tools are used in reporting. Watch for these standards migrating to communications outputs next.</mj-text>
+        <mj-text padding-top="0">🤝 <strong>WPP and Publicis both reported AI-driven headcount reductions in Q1</strong> — but both also reported record billable hours. AI isn't replacing work, it's expanding scope. Rates haven't moved.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 20px" background-color="#F7F4F0">
+      <mj-column><mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
+    </mj-section>
+
+    <!-- ONE INTERESTING THING -->
+    <mj-section background-color="#1A2B4A" border-radius="15px" padding="0">
+      <mj-column padding="24px 28px 24px 28px">
+        <mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-icon-one-interesting-thing.png" alt="One Interesting Thing" width="32px" align="left" padding="0 0 8px 0" />
+        <mj-text font-size="18px" color="#ffffff" font-weight="bold" font-family="Georgia, 'Times New Roman', serif" padding-top="0">One Interesting Thing</mj-text>
+        <mj-text color="#E0D5C8" padding-top="4px">A researcher at MIT's Media Lab published a study last week showing that AI-generated press releases were rated as <em>more credible</em> by journalists when they contained one small, specific factual error — because it "felt human." She's calling it the "credibility defect."</mj-text>
+        <mj-text color="#E0D5C8" padding-top="0">The implication is uncomfortable: ultra-polished, error-free AI output may be triggering skepticism while slightly imperfect copy passes. The researchers aren't recommending you introduce errors. They're pointing at something more fundamental — that authenticity is now being processed as a signal, and AI output is failing that test by being <em>too good</em>.</mj-text>
+        <mj-text color="#C9560A" font-size="13px" padding-top="4px">Worth reading: <a href="#" style="color:#C9560A;">media.mit.edu/credibility-defect →</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 20px" background-color="#F7F4F0">
+      <mj-column><mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/section-divider-main.png" alt="" width="560px" padding="0" /></mj-column>
+    </mj-section>
+
+    <!-- REFERRAL CTA -->
+    <mj-section background-color="#ffffff" border="1px solid #C9560A" border-radius="15px" padding="0">
+      <mj-column padding="24px 28px 24px 28px">
+        <mj-text font-size="20px" color="#1A2B4A" font-weight="bold" font-family="Georgia, 'Times New Roman', serif" align="center">Know someone who'd get this?</mj-text>
+        <mj-text align="center" color="#555555">Forward this issue to a colleague in comms. Every referral builds the community — and helps us keep the content sharp and independent.</mj-text>
+        <mj-button background-color="#C9560A" color="white" border-radius="6px" font-size="14px" font-weight="bold" padding="12px 28px" href="#">Share The AI Comms Desk →</mj-button>
+        <mj-text font-size="12px" color="#999999" align="center" padding-top="8px">Your referral link: <a href="#" style="color:#C9560A;">aicommsdesk.com/r/yourcode</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-section background-color="#F7F4F0" padding="20px 0 0 0">
+      <mj-column>
+        <mj-image src="file:///Users/rey/Desktop/Clawrence of Arabia/workspace/active/newsletter-brand-kit/footer.png" alt="The AI Comms Desk" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
