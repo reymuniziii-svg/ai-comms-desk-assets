@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="600" height="180">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1A2B4A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#243660;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="180" fill="url(#headerGrad)"/>
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="600" height="4" fill="#C9560A"/>
+
+  <!-- Subtle dot grid (right side) -->
+  <g opacity="0.06">
+    <circle cx="500" cy="40" r="2" fill="white"/>
+    <circle cx="520" cy="40" r="2" fill="white"/>
+    <circle cx="540" cy="40" r="2" fill="white"/>
+    <circle cx="560" cy="40" r="2" fill="white"/>
+    <circle cx="500" cy="58" r="2" fill="white"/>
+    <circle cx="520" cy="58" r="2" fill="white"/>
+    <circle cx="540" cy="58" r="2" fill="white"/>
+    <circle cx="560" cy="58" r="2" fill="white"/>
+    <circle cx="500" cy="76" r="2" fill="white"/>
+    <circle cx="520" cy="76" r="2" fill="white"/>
+    <circle cx="540" cy="76" r="2" fill="white"/>
+    <circle cx="560" cy="76" r="2" fill="white"/>
+    <circle cx="500" cy="94" r="2" fill="white"/>
+    <circle cx="520" cy="94" r="2" fill="white"/>
+    <circle cx="540" cy="94" r="2" fill="white"/>
+    <circle cx="560" cy="94" r="2" fill="white"/>
+    <circle cx="500" cy="112" r="2" fill="white"/>
+    <circle cx="520" cy="112" r="2" fill="white"/>
+    <circle cx="540" cy="112" r="2" fill="white"/>
+    <circle cx="560" cy="112" r="2" fill="white"/>
+    <circle cx="500" cy="130" r="2" fill="white"/>
+    <circle cx="520" cy="130" r="2" fill="white"/>
+    <circle cx="540" cy="130" r="2" fill="white"/>
+    <circle cx="560" cy="130" r="2" fill="white"/>
+  </g>
+
+  <!-- Signal icon -->
+  <g transform="translate(30, 40)">
+    <circle cx="28" cy="42" r="8" fill="#C9560A"/>
+    <path d="M 15,28 Q 28,15 41,28" fill="none" stroke="#C9560A" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 7,20 Q 28,5 49,20" fill="none" stroke="#C9560A" stroke-width="2.5" stroke-linecap="round" opacity="0.65"/>
+    <path d="M 0,12 Q 28,-5 56,12" fill="none" stroke="#C9560A" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+  </g>
+
+  <!-- "THE" label -->
+  <text x="110" y="56" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="white" letter-spacing="7" opacity="0.7">THE</text>
+
+  <!-- "AI COMMS DESK" on single line, large -->
+  <text x="108" y="105" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="900" fill="white" letter-spacing="2">AI COMMS DESK</text>
+
+  <!-- Rule line -->
+  <line x1="108" y1="116" x2="540" y2="116" stroke="#C9560A" stroke-width="2"/>
+
+  <!-- Tagline -->
+  <text x="108" y="140" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="white" letter-spacing="3.5" opacity="0.6">INTELLIGENCE FOR COMMUNICATORS</text>
+
+  <!-- Bottom accent bar -->
+  <rect x="0" y="176" width="600" height="4" fill="#C9560A"/>
+</svg>
